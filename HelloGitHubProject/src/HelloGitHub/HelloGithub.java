@@ -6,6 +6,8 @@ public class HelloGithub {
         // Prints "Hello, Github" to the terminal window.
         System.out.println("Hello, Github");
         System.out.println("Hello to you too mate :) :) :) :) :) ");
+        System.out.println("Hello, again");
+        System.out.println("Hello :) :) :) :) :) ");
     }
 
 }
